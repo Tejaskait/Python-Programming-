@@ -24,3 +24,4 @@ elif(d=="sin"):
 elif(d=="cos"):
     e=math.cos(a)
     print("cos of a is",a)
+
